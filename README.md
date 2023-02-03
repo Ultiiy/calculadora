@@ -5,9 +5,9 @@
 <h1 align="center">Calculadora</h1>
 
 <div align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/UItii/calculadora?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/UItii/calculadora?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/UItii/calculadora?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Ultiiy/calculadora?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Ultiiy/calculadora?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Ultiiy/calculadora?color=56BEB8">
 </div><br>
 
 <div align="center">
@@ -18,5 +18,5 @@
 
 ## | Sobre ##
 
-<p>É uma simples aplicação para realizar cálculos matemática básicos. Bastar inserir os números e a operação desejada, que o site vai calcular e exibe o resultado.</p>
+<p>É uma aplicação para realizar cálculos matemáticos básicos. Bastar inserir os números e a operação desejada, que o site vai calcular e exibe o resultado.</p>
 

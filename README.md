@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://media.discordapp.net/attachments/1063891503107285102/1063907993663569993/calculadora.png">
+  <img src="https://media.discordapp.net/attachments/1063891503107285102/1072222245604311110/image.png?width=1385&height=609">
 </div>
 
 <h1 align="center">Calculadora</h1>

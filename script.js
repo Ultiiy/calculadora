@@ -3,12 +3,12 @@ function insert(num) {
     numero.innerHTML += num
 }
 
-function back() {
+function apagar() {
     var resultado = document.getElementById('resultado').innerHTML;
     document.getElementById('resultado').innerHTML = resultado.substring(0, resultado.length - 1);
 }
 
-function clean() {
+function limpar() {
     var numero = document.getElementById('resultado')
     numero.innerHTML = ''
 }
@@ -18,6 +18,6 @@ function calcular() {
     if (resultado) {
         document.getElementById('resultado').innerHTML = eval(resultado)
     } else {
-        document.getElementById('resultado').innerHTML = ""
+        document.getElementById('resultado').innerHTML = "Error"
     }
 }
